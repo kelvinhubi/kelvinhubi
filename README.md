@@ -40,9 +40,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=kelvinhubi&icon=0&color=0" alt="Profile Views" />
-  </a>
-</div>
