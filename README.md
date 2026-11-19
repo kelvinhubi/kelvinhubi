@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 - 💻 I have robust experience developing full-stack applications and microservices.
-- ⚙️ My core tech stack includes **C# (.NET), Laravel, React, and TypeScript**.
+- ⚙️ My core tech stack includes **Java, C# (.NET), Laravel, React, and TypeScript**.
 - 🗄️ I am adept at database optimization, including indexing in **MySQL** and **MSSQL** to speed up query execution.
 - 🤖 I leverage AI tools as a strategic partner to automate repetitive coding tasks, script manual workflows, and accelerate prototyping.
 - 🤝 I am experienced in seamless team collaboration and version control using **Git and GitHub**.
 
 ## 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML/CSS](https://img.shields.io/badge/html_css-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Java](https://shields.io) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML/CSS](https://img.shields.io/badge/html_css-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 - **Databases:** Relational Database Design, Data Modeling
 - **Tools & Workflows:** Git, GitHub, CI/CD (GitHub Actions), AI-Assisted Development (Cursor, Large Language Models)
@@ -33,10 +33,20 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kelvinhubi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=kelvinhubi&theme=dark&hide_border=false" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shion.dev" />
+    <img src="https://shion.dev" height="175" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://demolab.com" />
+    <img src="https://demolab.com" height="175" />
+  </picture>
   <br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kelvinhubi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shion.dev" />
+    <img src="https://shion.dev" width="55%" />
+  </picture>
 </div>
+
 
 <br>
